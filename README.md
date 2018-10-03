@@ -21,3 +21,7 @@
 
 [1] Koksalan M & Batun S ¨ , 2009, Assigning regions to sales representatives at Pfizer Turkey, INFORMS
 Transactions on Education.
+
+Contributors :
+- Ahmed El Aamrani
+- Wassim Lhourti
